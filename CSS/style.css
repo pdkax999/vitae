@@ -173,7 +173,7 @@ main > aside > section > div {
 }
   
  /* 屏幕<=500 生效 */
-/* @media(max-width:500px){
+@media(max-width:500px){
       
     #page {
         width: 100%;
@@ -199,4 +199,3 @@ main > aside > section > div {
         align-items: flex-start;
     }
 }
- */
